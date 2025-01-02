@@ -1,7 +1,7 @@
 ![Hello Plugin banner](images/banner-1544x500.png)
 
 # Hello Plugin
-Mater Example plugin for ClassicPress
+Master Example plugin for ClassicPress Directory plugins.
 
 - Requires PHP: 7.4
 - Requires CP:  1.4
@@ -17,14 +17,14 @@ Desciption of All the Lorem Ipsum generators on the Internet tend to repeat pred
 The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
 # Features
-Hello Plugin Features Include:
+Hello Plugin features include:
 
 * Display your agenda or service calls in a list style
 * Add a date, time, notes like address or contact
 * Tabbed sections of Scheduler, Add New and Options
 * Full size clock with seconds, displays well on cellular phones
 
-Theme built with CSS3 grid templating specifications for full mobile and small device support.
+Plugin built with mention other dependencies and additional support assets.
 
 # Support
 Use https://github.com/yourdomain/hello-theme/issues to post your issues with this theme.
