@@ -1,7 +1,7 @@
-![Hello Theme banner](images/banner-1544x500.png)
+![Hello Plugin banner](images/banner-1544x500.png)
 
-# Hello Theme
-Scheduling plugin for ClassicPress
+# Hello Plugin
+Mater Example plugin for ClassicPress
 
 - Requires PHP: 7.4
 - Requires CP:  1.4
@@ -9,7 +9,7 @@ Scheduling plugin for ClassicPress
 - Author:       YourNameIdentity
 - Tags:         scheduling, booking, appointments, translation-ready
 - License:      GPL 3 (see LICENSE)
-- Text domain:  Hello Theme
+- Text domain:  hello-plugin
 
 ## Dispatch and read schedules online
 Desciption of All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. 
@@ -17,7 +17,7 @@ Desciption of All the Lorem Ipsum generators on the Internet tend to repeat pred
 The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
 # Features
-Hello Theme Options Include:
+Hello Plugin Features Include:
 
 * Display your agenda or service calls in a list style
 * Add a date, time, notes like address or contact
