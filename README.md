@@ -27,7 +27,7 @@ Hello Plugin features include:
 Plugin built with mention other dependencies and additional support assets.
 
 # Support
-Use https://github.com/yourdomain/hello-theme/issues to post your issues with this theme.
+Use https://github.com/yourdomain/hello-theme/issues to post your issues with this plugin.
 
 # Change Log
 - 1.0.1
