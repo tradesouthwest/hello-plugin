@@ -33,3 +33,6 @@ Use https://github.com/yourdomain/hello-theme/issues to post your issues with th
 - 1.0.1
 Dec 4 2024
 * initial release
+
+# Additional Help
+https://docs.classicpress.net/developer-guides/support-plugin-icons-and-banners/
